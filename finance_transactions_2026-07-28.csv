@@ -1,0 +1,10 @@
+ID,Type,Amount,Category,Date,Note,Payment Method,Recurring
+db66f265-0d3c-4373-ba5b-01f81cec6d03,expense,10000,"Housing",2026-07-28,"","Credit Card",none
+tx_101,income,4500,"Salary",2026-07-01,"Monthly tech lead salary payment","Bank Transfer",monthly
+tx_102,income,650,"Freelance",2026-07-12,"UI design consulting project","Stripe",none
+tx_103,expense,1450,"Housing",2026-07-03,"Monthly luxury apartment rent","Bank Transfer",monthly
+tx_104,expense,320.5,"Groceries",2026-07-10,"Whole Foods organic supplies","Credit Card",none
+tx_105,expense,85,"Entertainment",2026-07-15,"Concert ticket & refreshments","Debit Card",none
+tx_106,expense,120,"Utilities",2026-07-18,"High-speed fiber internet bill","Credit Card",monthly
+tx_107,expense,240,"Dining Out",2026-07-22,"Dinner celebration with colleagues","Credit Card",none
+tx_108,expense,45,"Transport",2026-07-25,"Uber rides during business week","Credit Card",none
